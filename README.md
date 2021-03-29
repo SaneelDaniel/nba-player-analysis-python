@@ -1,6 +1,6 @@
-# Basketball player analysis 
+# NBA Teams/Player Data Analysis/Visualization Project
 
-- Built with python
+- This is a small static project, built with python which uses Web Scrapping, Streamlit, Numpy, Pandas, Matplotlib, Seaborn, and similar packages to get nba player data, and parse/sort important information to support analysis and visualization.
 
 ## Screen shots Of the Running App
 
@@ -8,25 +8,29 @@
 
 (The client side visible-page)
 
-![abc](Images/abc.png)
-
-### Dropdown menu for selecting year:
-
-![bce](Images/bcd.png)
-
-### Droupdown menu for Team selection:
-
-![cde](Images/cde.png)
-
-### Droupdown menu for position selection:
-
-![def](Images/def.png)
+![home](Images/home.png)
 
 ### Heatmap:
 
 (Heatmap is genrated after clicking on button: Intercorrelation Heatmap)
 
-![efg](Images/efg.png)
+![heatmap](Images/heatmap.png)
+
+
+### Features for data selection to understand correlation
+
+#### Dropdown menu for selecting year:
+
+![year](Images/features-year.png)
+
+#### Dropdown menu for Team selection:
+
+![teams](Images/features-teams.png)
+
+#### Droupdown menu for position selection:
+
+![position](Images/features-position.png)
+
 
 # Getting Started with Creating Python App and Running the project on Streamlit Network
 
